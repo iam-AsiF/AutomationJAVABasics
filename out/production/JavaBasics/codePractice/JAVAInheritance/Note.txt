@@ -1,0 +1,7 @@
+In this package JavaInheritance - all three classes are Protected class - Access Modifier
+
+Any function form a class can be called within another class if and only if they are in the
+same package.
+
+Purpose of override - suppose dev made a parent class with a specific function and asked everyone
+to must use it inside their child class with same/different action.

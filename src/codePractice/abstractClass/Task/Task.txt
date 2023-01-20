@@ -1,0 +1,9 @@
+Create a School parent class
+create a room child class
+create a canteen child class
+
+room and canteen should have fanAction, waterAction, doorOpen, doorClose, and the calculation must have there named costAction
+
+costAction function will be responsible for -
+total electricity bill for room and canteen
+as parameter this function will accept int hour(like 1, 2, 4...) and (per unit cost)

@@ -1,0 +1,11 @@
+Abstract class - must have abstract keyword
+
+- inside an Abstract class there can be multiple function with normal function
+and abstract function
+- if we want to make an abstract function the class should be Abstract class
+
+- Abstract class cannot have a body { } - only functionName();
+
+*** If we want to inherit an Abstract class on a non-Abstract class we should
+  import all the Abstract methods inside the child class also. But if the child
+  class is Abstract also we don't have to import all of them functions.
